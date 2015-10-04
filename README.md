@@ -31,4 +31,3 @@ pong
 ## License
 
 This project is released under the terms of the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
-s
